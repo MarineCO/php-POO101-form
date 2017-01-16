@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Exerice 1 : form avec POO</title>
+	<title>Exercice 1 : form avec POO</title>
 </head>
 <body>
 
