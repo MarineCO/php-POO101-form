@@ -6,7 +6,7 @@
 </head>
 <body>
 
-	<form method="GET" action="exercice1;php">
+	<form method="GET" action="user.php">
 		
 		<label for="lastname">Nom</label>
 		<input id="lastname" name="lastname" type="text"/>
